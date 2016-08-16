@@ -5,7 +5,7 @@ date:   2016-08-16 21:50:00 +0900
 categories:
 ---
 
-자세하게 설명된 [ubuntu-install-blog][블로그]를 발견했다.
+자세하게 설명된 [블로그][ubuntu-install-blog]를 발견했다.
 
 
 
