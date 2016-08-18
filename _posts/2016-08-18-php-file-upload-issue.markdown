@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PHP 사용자 프로필 사진 업로드"
+title:  "PHP 파일 업로드가 move_uploaded_file 함수에서 실패하는 경우"
 date:   2016-08-18 07:38:00 +0900
 categories:
 ---
