@@ -30,6 +30,6 @@ jekyll 자체에 대한 이해가 없으면 블로그 구성이 꽤 성가셔진
 
 지금 이 블로그 페이지는 jekyll 기본 테마인데 이걸 뜯어고치는 주제로 포스팅을 더 진행해볼까 생각 중이다.
 
-[jekyll-docs-korean]: http://jekyllrb-ko.github.io/
+[jekyll-docs-korean]: https://jekyllrb-ko.github.io/
 [github-jekyll-docs]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 [stackoverflow-error-jekyll]: http://stackoverflow.com/questions/38677296/error-running-jekyll-on-ubuntu-14-04
