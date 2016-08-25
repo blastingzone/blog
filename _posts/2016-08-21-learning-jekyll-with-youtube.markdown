@@ -2,7 +2,7 @@
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 0 -"
 date:   2016-08-21 22:31:00 +0900
-categories:
+categories: jekyll
 ---
 Youtube에서 재밌어보이는 Jekyll 강의를 하나 찾았다. [보러가기][youtube_jekyll_link]
 

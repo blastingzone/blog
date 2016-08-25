@@ -2,7 +2,7 @@
 layout: post
 title:  "PHP 파일 업로드가 move_uploaded_file 함수에서 실패하는 경우"
 date:   2016-08-18 07:38:00 +0900
-categories:
+categories: PHP
 ---
 개발에서 어려운 부분을 꼽으라면 "프로젝트마다 한 번만 설정하는 것들"을 빼먹을 수 없다.
 
