@@ -2,7 +2,7 @@
 layout: post
 title:  "FOUT 문제와 해결"
 date:   2016-08-26 08:42:00 +0900
-categories: CSS
+categories: css
 ---
 [Paul Irish 아조씨 블로그 보러가기][Paul-Irish-FOUT]
 

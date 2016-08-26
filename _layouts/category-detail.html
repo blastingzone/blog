@@ -8,10 +8,9 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% for category in site.categories %}
-    <li><h4 class="post-sub-title">{{ category | first }}</h4>
+    <li><h4 class="post-sub-title">{{ param-category }}</h4>
       <ul>
-        {% for posts in category %}
+        {% for posts in param-category %}
           {% for post in posts %}
             {% if post.url %}
               <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -20,7 +19,6 @@ layout: default
         {% endfor %}
       </ul>
     </li>
-    {% endfor %}
   </div>
 
 </article>
