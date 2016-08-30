@@ -8,6 +8,9 @@ layout: default
   </header>
 
   <div class="post-content">
+
+    {{ content }}
+
     {% for category in site.categories %}
     <li><h4 class="post-sub-title">{{ category | first }}</h4>
       <ul>
