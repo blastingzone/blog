@@ -243,5 +243,12 @@
 
 .post-sub-title{
   margin-top: $spacing-unit;
+}
 
+.post-img--big{
+  display: block;
+  width: 80%;
+  box-sizing: border-box;
+  margin: 10px auto;
+  border: solid 1px #000;
 }
