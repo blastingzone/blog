@@ -10,7 +10,7 @@ categories: jekyll
 
 현재 이 페이지는 이런 모습을 하고 있다.
 
-![2016-09-07]({{ site.baseurl }}/img/2016/09/07/cap_04.png){:class="post-img--big"}
+![2016-09-07]({{ site.baseurl }}/img/2016/09/07/cap_04.PNG){:class="post-img--big"}
 
 이 페이지들을 수정해나가면서 포스팅하는 것이 다음 Jekyll 시리즈의 목표가 될 것이다.  
 
