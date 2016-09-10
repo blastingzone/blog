@@ -2,7 +2,7 @@
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 0 -"
 date:   2016-08-21 22:31:00 +0900
-categories: jekyll
+categories: Jekyll
 tags : jekyll
 ---
 [다음 글 보기][post_1]

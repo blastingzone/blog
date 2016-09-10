@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll에 태그별 검색 구현하기"
 date:   2016-09-10 08:37:00 +0900
-categories: jekyll
+categories: Jekyll
 tags : jekyll
 ---
 Jekyll은 정적 사이트 생성기다. 그 말은 태그별 묶음 보기를 제공하는데 있어서 일반적인 방법을 사용할 수 없다는 뜻이다. Jekyll 환경이 아니라면 태그별 묶음 보기는 RESTful 하게 넘겨받은 파라미터를 DB에 조회하여 처리하는 식으로 구현하게 될 텐데 그런 서버사이드 작업을 하지 말자고 만든 것이 Jekyll 아니던가.
