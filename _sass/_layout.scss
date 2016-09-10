@@ -252,3 +252,19 @@
   margin: 10px auto;
   border: solid 1px #000;
 }
+
+.post-tag-box{
+  padding:$spacing-unit / 4 0;
+}
+
+.post-tag-pill{
+  padding:0.2em 1em;
+  color:#fff;
+  background-color: #888;
+  font-size: 0.8em;
+}
+.post-tag-pill:hover{
+  text-decoration: none;
+  color:#66ccff;
+  background-color: #ddd;
+}

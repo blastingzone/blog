@@ -17,3 +17,16 @@ github_username:  blastingzone
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Tag Page
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+...

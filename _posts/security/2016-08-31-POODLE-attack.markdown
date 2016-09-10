@@ -3,6 +3,7 @@ layout: post
 title:  "SSL3는 POODLE 공격에 취약하다"
 date:   2016-08-31 04:20:00 +0900
 categories: security
+tags: security
 ---
 정리하려고 보니까 이미 잘 된 사이트가 많아서 링크만 걸면 되겠다  
 [Poodle :padding oracle on downgraded legacy encryption][Poodle_blog_01]

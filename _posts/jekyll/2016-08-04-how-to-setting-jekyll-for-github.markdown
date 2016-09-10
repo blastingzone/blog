@@ -3,6 +3,7 @@ layout: post
 title:  "어떻게 Jekyll을 이용해서 github 페이지를 구성하는가?"
 date:   2016-08-04 09:35:00 +0900
 categories: jekyll
+tags : jekyll
 ---
 Github의 무료 호스팅 서비스는 블로그를 만들기에 아주 좋다.
 

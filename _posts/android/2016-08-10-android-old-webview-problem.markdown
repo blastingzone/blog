@@ -3,6 +3,7 @@ layout: post
 title:  "안드로이드 운영체제 버전과 웹뷰 문제"
 date:   2016-08-10 11:00:00 +0900
 categories: Android
+tags : android
 ---
 웹뷰(WebView)에서 문제가 생겼을 때 똑같은 테스트 장비의 모바일 브라우저로 보면 멀쩡하게 나와서 사람을 황당하게 만드는 경우가 종종 있다.
 

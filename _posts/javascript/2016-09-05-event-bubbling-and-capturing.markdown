@@ -3,6 +3,7 @@ layout: post
 title:  "이벤트 버블링과 이벤트 캡처링"
 date:   2016-09-05 12:45:00 +0900
 categories: javascript
+tags: javascript
 ---
 워낙 유명한 주제인데 정작 다 아는거 같으면서도 뭘 만들면 삽질하게 된다.
 

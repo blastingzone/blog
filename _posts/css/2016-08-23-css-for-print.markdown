@@ -3,6 +3,7 @@ layout: post
 title:  "인쇄용 페이지의 CSS"
 date:   2016-08-23 04:11:00 +0900
 categories: css
+tags : css
 ---
 [자세히 알고 싶다면 이 글을 보면 됩니다][print-style-sheet-link]
 
