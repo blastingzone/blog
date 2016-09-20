@@ -4,6 +4,7 @@ title:  "Objective-C 메소드는 왜 이런 식으로 생겼나?"
 date:   2016-09-19 22:28:00 +0900
 categories: Objective-C
 tags: objective-c
+published: false
 ---
 [Objective-C 함수 문법 설명][how-to-obj-c-method]  
 
