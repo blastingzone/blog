@@ -23,17 +23,9 @@ collections:
   tags:
     output: true
     permalink: /tags/:path/
-  categories:
-    output: true
-    permalink: /categories/:path/
 defaults:
   - scope:
       path: ''
       type: tags
     values:
       layout: tag
-  - scope:
-      path: ''
-      type: categories
-    values:
-      layout: category

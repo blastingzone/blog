@@ -1,4 +1,0 @@
----
-name: Jekyll
-title: Jekyll
----
