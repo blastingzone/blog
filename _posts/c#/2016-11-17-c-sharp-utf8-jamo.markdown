@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Ubuntu에서 APM 세팅하기"
-date:   2016-08-16 21:50:00 +0900
+title:  "C# UTF-8 문자열의 한글 자모 분리 문제"
+date:   2016-11-17 23:50:00 +0900
 categories: C#
-tags : c#
+tags : c-sharp
 ---
 
 ## 문제 발생
