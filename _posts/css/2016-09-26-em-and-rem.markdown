@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "EM과 REM"
+date:   2016-09-26 08:44:00 +0900
+categories: css
+tags : css
+---
+사실상 아래 링크에 있는 내용만 숙지해도 충분하다.
+
+[링크 : 종합 안내: Rem 그리고 Em, 언제 써야 할까][rem-em-blog]
+
+포인트만 요약하면
+
+* em 계산은 자기 element의 font-size를 기준으로 px로 변환된다는 것
+* 따라서 parent가 em으로 지정되어 있고 이 값이 1이 아닐 경우 child는 (부모 font-size X 부모 em X 자식 em) 의 공식을 따르므로 의도하지 않은 결과가 나올 수 있다는 것
+* 이 문제를 회피하고 싶다면 root 의 font-size를 기반으로 하는 rem을 사용하면 된다는 것
+
+정도가 되겠다.
+
+[rem-em-blog]:https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
