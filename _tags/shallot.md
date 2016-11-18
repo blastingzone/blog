@@ -1,4 +1,0 @@
----
-name: shallot
-title: shallot
----

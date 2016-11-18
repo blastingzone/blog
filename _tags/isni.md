@@ -1,4 +1,0 @@
----
-name: isni
-title: isni
----
