@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 0 -"
-date:   2016-08-21 22:31:00 +09:00
+date:   2016-08-21 22:31:00 +0900
 categories: Jekyll
 tags : jekyll
 permalink: /blog/:title/
 ---
-[다음 글 보기][post_1]
 
 Youtube에서 재밌어보이는 Jekyll 강의를 하나 찾았다. [보러가기][youtube_jekyll_link]
 
@@ -16,7 +15,6 @@ Youtube에서 재밌어보이는 Jekyll 강의를 하나 찾았다. [보러가�
 
 수정 전 모습을 스크린샷으로 남기고 수정 후 모습을 스크린샷으로 남기는 식으로.
 
-[post_1]:{{ site.baseurl }}{% post_url 2016-08-24-learning-jekyll-with-youtube.markdown %}
 [youtube_jekyll_link]:https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [yaml_official]:http://yaml.org/
 [jekyll-docs-korean]:https://jekyllrb-ko.github.io/

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 5 -"
-date:   2016-09-06 02:11:00 +09:00
+date:   2016-09-06 02:11:00 +0900
 categories: Jekyll
 tags : jekyll
 ---
-[이전 글 보기][post_4]
 
 이번 화 관련 영상들
 
@@ -22,6 +21,5 @@ markdown 문법은 css 파일에도 적용되기 때문에, 여러 개의 의미
 이제 Youtube 강의가 슬슬 마무리 단계인데 여기까지만 봐도 포스팅 하는데는 별 무리가 없는 수준이다.
 
 
-[post_4]:{{ site.baseurl }}{% post_url 2016-08-30-learning-jekyll-with-youtube %}
 [lecture_30]:https://www.youtube.com/watch?v=H4Fc2xL79nU&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [lecture_31]:https://www.youtube.com/watch?v=ra9Td0DpK0s&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-

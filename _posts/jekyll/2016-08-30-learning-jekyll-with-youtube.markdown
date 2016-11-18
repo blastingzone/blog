@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 4 -"
-date:   2016-08-30 08:30:00 +09:00
+date:   2016-08-30 08:30:00 +0900
 categories: Jekyll
 tags : jekyll
 ---
-[이전 글 보기][post_3]  
-[다음 글 보기][post_5]  
 
 이번 화 관련 영상들
 
@@ -77,7 +75,5 @@ tags : jekyll
 
 {% endhighlight %}
 
-[post_3]:{{ site.baseurl }}{% post_url 2016-08-27-learning-jekyll-with-youtube %}
-[post_5]:{{ site.baseurl }}{% post_url 2016-09-06-learning-jekyll-with-youtube %}
 [lecture_20]:https://www.youtube.com/watch?v=yLptLUVoz3k&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [lecture_21]:https://www.youtube.com/watch?v=1rXBzPiSa5c&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-

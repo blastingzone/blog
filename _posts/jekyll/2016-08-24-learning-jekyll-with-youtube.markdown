@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 1 -"
-date:   2016-08-24 05:11:00 +09:00
+date:   2016-08-24 05:11:00 +0900
 categories: Jekyll
 tags : jekyll
 ---
-[이전 글 보기][post_0]  
-[다음 글 보기][post_2]
-
 이번 화 관련 영상들
 
 [jekyll:layouts][lecture_07]
@@ -60,8 +57,6 @@ _layouts 폴더를 확인해보면 _layouts 폴더에는 default.html 파일 외
 
 여기까지 확인하고 느낀 점은 _includes 폴더는 component보다는 조금 큰 개념이고 _layouts 폴더보다는 작은 부품이라는 것이다. 즉 _layouts 폴더의 페이지 템플릿들은 _includes 폴더에 있는 header나 sidebar 등을 조립해서 만들어지고, _layouts 폴더에 있는 페이지 템플릿들이 정적 페이지로 변환되면서 최종적으로 _site 폴더에 산출물을 만든다고 이해하고 있다.
 
-[post_0]:{{ site.baseurl }}{% post_url 2016-08-21-learning-jekyll-with-youtube %}
-[post_2]:{{ site.baseurl }}{% post_url 2016-08-25-learning-jekyll-with-youtube %}
 [lecture_07]:https://www.youtube.com/watch?v=ra8r2VymK3c&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [lecture_08]:https://www.youtube.com/watch?v=fX3jpJlaDHI&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [lecture_10]:https://www.youtube.com/watch?v=lelmLpXbUEo&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-

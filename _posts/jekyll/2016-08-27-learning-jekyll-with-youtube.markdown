@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Youtube로 Jekyll을 배워보자 - 3 -"
-date:   2016-08-27 06:12:00 +09:00
+date:   2016-08-27 06:12:00 +0900
 categories: Jekyll
 tags : jekyll
 ---
-[이전 글 보기][post_2]  
-[다음 글 보기][post_4]
 
 이번 화 관련 영상들
 
@@ -18,7 +16,5 @@ nested layout은 1편에서 봤던 layout 안에 layout을 집어넣는 방법�
 
 Jekyll 기본 테마를 보면 \_layouts 디렉토리 밑에 page.html 파일과 post.html 파일이 각각 이런 원리로 구성되어 있음을 알 수 있다.
 
-[post_2]:{{ site.baseurl }}{% post_url 2016-08-25-learning-jekyll-with-youtube %}
-[post_4]:{{ site.baseurl }}{% post_url 2016-08-30-learning-jekyll-with-youtube %}
 [lecture_17]:https://www.youtube.com/watch?v=A6x1mFRmVX0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [lecture_19]:https://www.youtube.com/watch?v=rcRiJSaPwbc&index=19&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
