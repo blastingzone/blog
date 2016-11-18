@@ -1,4 +1,0 @@
----
-name: plant
-title: plant
----

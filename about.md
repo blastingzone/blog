@@ -4,23 +4,12 @@ title: About
 permalink: /about/
 ---
 
-올라오는 정보
--------------------
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-개발하면서 삽질한 것
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-새로 뭔가 배우면서 메모해두는 것
-
-주제에 대해 잘 정리된 기록들 외부링크
-
-그 외 잡담들
-
-
-
-
-올라오지 않는 정보
--------------------
-
-친절하고 자세한 튜토리얼
-
-고오급 기술
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
