@@ -1,4 +1,0 @@
----
-name: lettuce
-title: lettuce
----
