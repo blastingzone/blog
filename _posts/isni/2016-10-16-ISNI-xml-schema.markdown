@@ -4,7 +4,12 @@ title:  "ISNI Request XML 스키마"
 date:   2016-10-16 16:20:00 +0900
 categories: ISNI
 tags: isni
+published: false
 ---
+### 경고
+
+2017년 2월 중순에 아래 XML의 양식이 완전히 바뀔 예정이므로 글을 비공개 처리함
+
 ### ISNI
 
 ISNI란 <b>I</b>nternational <b>S</b>tandard <b>N</b>ame <b>I</b>dentifier의 약자다.

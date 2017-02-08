@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+주로 개발 도중에 삽질했던 것들을 정리하는 블로그입니다.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+자주 찾아보는 정보를 정리하는 글도 있습니다.
