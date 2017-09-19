@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "이클립스에서는 잘 보이는 페이지가 jar로 만들면 안 보인다?"
+title:  "Spring 프로젝트를 패키징 했는데 이클립스에서는 잘 보이는 페이지가 jar로 만들면 안 보인다?"
 date:   2017-09-19 17:35:00 +0900
 categories: spring
 tags: spring
@@ -12,7 +12,7 @@ jar 파일을 뜯어봤지만 누락된 파일은 없다.
 
 ### 결론
 
-ModelAndView 생성시 경로에 /를 포함시키면 이런 문제가 발생한다.
+ModelAndView 생성시 경로 시작지점에 /를 포함시키면 이런 문제가 발생한다.
 
 ### 삽질
 
