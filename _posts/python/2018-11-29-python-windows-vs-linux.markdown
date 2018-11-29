@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python 2.x vs 3.x 그리고 윈도우즈 vs 리눅스"
-date:   2016-11-29 15:45:00 +0900
+date:   2018-11-29 15:45:00 +0900
 categories: python
 tags: python
 ---
